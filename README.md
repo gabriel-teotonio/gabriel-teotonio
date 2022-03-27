@@ -1,7 +1,7 @@
 - 👋 olá, eu sou o gabriel-teotonio
-- 👀 futuro desenvolvedor Front-End
-- 🌱 estou estudano JavaScript
-
+- 👀 desenvolvendo front-end
+- 🌱 estou estudando JavaScript
+- Belém / PA  Brazil
 <div align="center">
   <a href="https://github.com/gabriel-teotonio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-teotonio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
