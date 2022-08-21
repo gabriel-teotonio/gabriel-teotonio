@@ -1,6 +1,6 @@
-- 👋 olá, eu sou o gabriel-teotonio
-- 👀 desenvolvendo front-end
-- 🌱 estou estudando JavaScript
+- 👋 Olá, eu sou o Gabriel Teotonio
+- 👀 Desenvolvendo Front-End
+- 🌱 estou estudando React Js
 - Belém / PA  Brazil
 <div align="center">
   <a href="https://github.com/gabriel-teotonio">
@@ -12,6 +12,8 @@
   <img align="center" alt="gabe-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="gabe-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="gabe-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
 <div>
