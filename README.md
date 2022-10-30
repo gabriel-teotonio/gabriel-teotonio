@@ -1,5 +1,5 @@
 # Gabriel Teotonio
-💻 Desenvolvedor Front-End Jnr<br>🏫 Informática para internet<br>📍 Belém, PA<br>📝 Estudando em React Js<br>⚽ <br>
+💻 Front-End Developer<br>👨‍🎓 Info.web<br>📍 Belém, PA<br>📝React | Typescript<br> ⚽<br>
 
 
 ## 🌐 Social
