@@ -1,5 +1,5 @@
 # Gabriel Teotonio
-💻 Web Developer<br>👨‍🎓 SI<br>📍 Belém, PA<br>📝React | Typescript<br> ⚽<br>
+💻 Desenvolvedor Web Full Stack<br>👨‍🎓 Sistemas de informação<br>📍 Belém, PA<br>📝NestJs | PostgresSQL<br>
 
 
 ## 🌐 Social
